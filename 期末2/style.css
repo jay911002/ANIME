@@ -1,0 +1,40 @@
+.container-fluid {
+    background-color: rgb(32,33,36);
+    }
+    
+    
+    
+    h1 {
+    text-align: center;
+    padding: 60px;
+    color: rgb(255, 144, 0);
+    }
+    
+    .nav-tabs .nav-link.active {
+    color: white;
+    background-color: rgb(255, 144, 0);
+    border-color: rgb(2, 2, 2);
+    border-bottom: 0px;
+    }
+    
+    .nav-link {
+    font-size: 30px;
+    color: rgb(255, 144, 0);
+    }
+    
+    .nav-tabs {
+    border-bottom: 1px solid rgb(239, 235, 235);
+    }
+    
+    .tab-content h3 {
+    text-align: center;
+    padding: 30px;
+    color: rgb(255, 144, 0);
+    }
+
+    .modal-body .btn {
+        width: 100%;
+        font-size: 25px;
+        color: white;
+        }
+    
